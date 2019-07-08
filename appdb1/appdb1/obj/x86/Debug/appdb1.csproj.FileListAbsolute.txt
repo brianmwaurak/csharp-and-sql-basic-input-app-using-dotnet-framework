@@ -1,0 +1,9 @@
+C:\Users\BRAYO\documents\visual studio 2010\Projects\appdb1\appdb1\obj\x86\Debug\appdb1.Form1.resources
+C:\Users\BRAYO\documents\visual studio 2010\Projects\appdb1\appdb1\obj\x86\Debug\appdb1.Properties.Resources.resources
+C:\Users\BRAYO\documents\visual studio 2010\Projects\appdb1\appdb1\obj\x86\Debug\appdb1.csproj.GenerateResource.Cache
+C:\Users\BRAYO\documents\visual studio 2010\Projects\appdb1\appdb1\bin\Debug\appdb1.exe
+C:\Users\BRAYO\documents\visual studio 2010\Projects\appdb1\appdb1\bin\Debug\appdb1.pdb
+C:\Users\BRAYO\documents\visual studio 2010\Projects\appdb1\appdb1\obj\x86\Debug\appdb1.exe
+C:\Users\BRAYO\documents\visual studio 2010\Projects\appdb1\appdb1\obj\x86\Debug\appdb1.pdb
+C:\Users\BRAYO\documents\visual studio 2010\Projects\appdb1\appdb1\obj\x86\Debug\appdb1.newform.resources
+C:\Users\BRAYO\documents\visual studio 2010\Projects\appdb1\appdb1\obj\x86\Debug\appdb1.csprojResolveAssemblyReference.cache
